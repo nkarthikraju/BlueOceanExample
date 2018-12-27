@@ -6,6 +6,11 @@ steps{
 echo "Hello World"
 }
 }
+stage("BlueOcean Example1"){
+steps{
+echo "Hellooo World"
+}
+}
 }
 }
 
